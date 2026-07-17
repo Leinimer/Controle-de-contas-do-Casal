@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow",
+  "description": "Aplicativo de gestão financeira pessoal e familiar com análises comparativas, controle de investimentos e divisão de despesas compartilhadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
